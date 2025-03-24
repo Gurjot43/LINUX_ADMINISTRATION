@@ -4,7 +4,7 @@ Create the operator1 user and confirm that it exists in the system. Set the pass
 
 APPROACH: sudo useradd username command is used to add the new user . sudo passwd is used to set the command for the new user created. -c command is used to update the comments. userdel is used to delete the user.
 
-![Screenshot 2025-03-19 151930](https://github.com/user-attachments/assets/7dfa0dd9-6278-4a0f-8501-11cdfe627adc)
+
 
 ![Screenshot 2025-03-19 151950](https://github.com/user-attachments/assets/15b498b4-bad0-4925-8b77-2f3b922052c8)
 
